@@ -4,7 +4,7 @@ Easy install caprover server
 This simple script will install caprover server on your OS
 
 Just do:
-`` sudo sh caprover-ubuntu-19-installer.sh ``
+`` sudo sh caprover-ubuntu-18-installer.sh ``
 
 After install this caprover server, you may config a domain and continue install steps on your client by install caprover client installer:
 
