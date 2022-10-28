@@ -13,7 +13,7 @@ sudo apt-get update
 
 sudo apt list -a docker-ce
 
-sudo apt install -yq docker-ce=18.03.1~ce~3-0~ubuntu
+sudo apt install -yq docker-ce=19.03.15~ce~3-0~ubuntu
 
 sudo apt install -yq docker-ce
 
