@@ -66,4 +66,5 @@ thanks from :
 
 [Dominik Sobe](https://blog.logrocket.com/author/dominiksobe/) for best [caprover installation article](https://blog.logrocket.com/how-to-set-up-your-own-paas-with-caprover/)
 
+[forked from yiiman-dev/caprover-installer](https://github.com/yiiman-dev/caprover-installer)
 
